@@ -1,6 +1,7 @@
 # Streamlit BMI Calculator Web App
 
 Welcome to the **Streamlit BMI Calculator Web App**! 🏋️‍♂️📊
+https://bmi-calculator-by-maryamshahid.streamlit.app/
 
 This is a simple and interactive web app built using **Streamlit** to calculate your **Body Mass Index (BMI)**. The app allows users to input their height and weight and receive feedback on their BMI, as well as an interpretation of the result.
 
